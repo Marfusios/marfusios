@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Let's hack something...
+
+:computer: :chart_with_upwards_trend: ₿ :free: :white_circle: 
+
 <!--
 **Marfusios/marfusios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
