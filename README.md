@@ -4,7 +4,7 @@ Let's hack something...
 
 :computer: :chart_with_upwards_trend: ₿ :free: :white_circle: 
 
-![bitcoin beer](btc_beer2.png)
+![bitcoin beer](https://github.com/Marfusios/marfusios/raw/master/btc_beer2.png)
 
 <!--
 **Marfusios/marfusios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
