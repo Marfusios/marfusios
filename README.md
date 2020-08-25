@@ -4,6 +4,7 @@ Let's hack something...
 
 :computer: :chart_with_upwards_trend: ₿ :free: :white_circle: 
 
+![mk logo](https://github.com/Marfusios/marfusios/blob/master/logo_maze_circle_189.png)
 ![bitcoin beer](https://github.com/Marfusios/marfusios/raw/master/btc_beer2.png)
 
 <!--
