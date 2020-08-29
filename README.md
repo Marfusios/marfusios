@@ -1,3 +1,7 @@
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=marfusios&count_private=true&show_icons=true">
+</a>
+
 ### Hi there 👋
 
 Let's hack something...
