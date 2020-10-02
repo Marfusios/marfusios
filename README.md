@@ -11,11 +11,7 @@ Let's hack something...
 ![mk logo](https://github.com/Marfusios/marfusios/blob/master/logo_maze_circle_189.png)
 ![bitcoin beer](https://github.com/Marfusios/marfusios/raw/master/btc_beer2.png)
 
-<details>
-  <summary> </summary>
-  
-  [![HitCount](http://hits.dwyl.com/marfusios/marfusios.svg)](http://hits.dwyl.com/marfusios/marfusios) 
-</details>
+[![HitCount](http://hits.dwyl.com/marfusios/marfusios.svg)](http://hits.dwyl.com/marfusios/marfusios) 
 
 <!--
 **Marfusios/marfusios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
