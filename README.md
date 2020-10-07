@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/Marfusios/marfusios.svg)](http://hits.dwyl.com/Marfusios/marfusios)
+[![HitCount](http://hits.dwyl.com/Marfusios/Marfusios/marfusios.svg)](http://hits.dwyl.com/Marfusios/Marfusios/marfusios)
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marfusios&count_private=true&show_icons=true&theme=great-gatsby">
