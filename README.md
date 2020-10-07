@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/Marfusios/marfusios.svg)](https://github.com/Marfusios/marfusios)
-
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marfusios&count_private=true&show_icons=true&theme=great-gatsby">
 </a>
@@ -13,14 +11,15 @@ Let's hack something...
 ![mk logo](https://github.com/Marfusios/marfusios/blob/master/logo_maze_circle_189.png)
 ![bitcoin beer](https://github.com/Marfusios/marfusios/raw/master/btc_beer2.png)
 
-<!--
+
 <details>
   <summary> </summary>
   
-  [![HitCount](http://hits.dwyl.com/marfusios/marfusios.svg)](http://hits.dwyl.com/marfusios/marfusios) 
+  [![HitCount](http://hits.dwyl.com/Marfusios/marfusios.svg)](http://hits.dwyl.com/Marfusios/marfusios) 
+  ![ViewCount](https://views.whatilearened.today/views/github/Marfusios/marfusios.svg)
 </details>
 
-
+<!--
 **Marfusios/marfusios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
